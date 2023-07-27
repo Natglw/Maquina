@@ -13,6 +13,7 @@ public Maquina() {
 	
 
 new Potencia();
+new Ciclo();
 				
 }
 	

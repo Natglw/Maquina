@@ -25,6 +25,7 @@ public Potencia() {
 	jf();
 	estruturação();
 	
+	
 }	
 	
 public void jf() {
