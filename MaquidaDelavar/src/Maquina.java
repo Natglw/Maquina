@@ -14,6 +14,7 @@ public Maquina() {
 
 new Potencia();
 new Ciclo();
+new Fios();
 				
 }
 	
