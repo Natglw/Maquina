@@ -22,8 +22,9 @@ private int WIDTH = 800;
 	
 public Potencia() {
 
-	jf();
+	
 	estruturação();
+	jf();
 	
 	
 }	
@@ -40,7 +41,12 @@ public void jf() {
 	jf.add(tf);
 	jf.add(jp);
 	
+	
+	
 }
+
+
+
 
 public void estruturação() {
 	
@@ -50,8 +56,10 @@ public void estruturação() {
 	tf.setBounds(400, 200, 200, 30);
 	
 	
+	
 
 }
+
 
 @Override
 public void actionPerformed(ActionEvent e) {

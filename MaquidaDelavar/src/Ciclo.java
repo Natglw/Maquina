@@ -12,8 +12,8 @@ int tempo2 =  5000;
 
 public Ciclo() {
 	
-	tarefa();
-	tarefa2();
+	 tarefa();
+	 tarefa2();
 	
 }
 
